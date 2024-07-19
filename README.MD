@@ -23,7 +23,7 @@ The program reads user input, processes it, and generates ASCII art based on the
 
 1.  Clone this repository to your local machine.
 ```go
-    git clone https://learn.zone01kisumu.ke/git/skisenge/ascii-art-web
+    git clone https://github.com/stkisengese/ascii-art-server
 ```
 2.  Ensure you have Go installed.
 3.  Navigate to the project directory.
@@ -46,6 +46,6 @@ The program reads user input, processes it, and generates ASCII art based on the
 7.  Click `Back to HomePage` to navigate back to test other entries.
 
 ## Authors
-- [@mombewa](https://learn.zone01kisumu.ke/git/mombewa)
+- [@mauriceombewa](https://github.com/mauriceombewa)
 
-- [@skisenge](https://learn.zone01kisumu.ke/git/skisenge)
+- [@stkisengese](https://github.com/stkisengese)
